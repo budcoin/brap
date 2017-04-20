@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+
+# USAGE
+# $ python generate_data.py 67 69 110 98 5.2 1.1 0.9 1 1 2
+
 import pymongo
 from pymongo import MongoClient
 from datetime import datetime
